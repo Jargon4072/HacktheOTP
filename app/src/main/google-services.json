@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919917238327",
+    "firebase_url": "https://jargonk-df83a.firebaseio.com",
+    "project_id": "jargonk-df83a",
+    "storage_bucket": "jargonk-df83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919917238327:android:3941a0f05f86a482",
+        "android_client_info": {
+          "package_name": "com.example.krishna_warrior.jargonk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919917238327-nfpm7is678vu9ik6lb8e1uo5fohq8hhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnp4s2Pc268QmgvnYKoVMh-0dFCT44Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,7 +12,7 @@ It uses Firebase real time database.
 - See the data on firebase database in realtime.
 
 ### Future Improvements:
-- Session creation for each victim.
+- Session creation for each victims.
 - Using regrex to fetch specific data from SMS.
 - Allow app to run in background always.
 - Specific tag detction and matching in SMS.

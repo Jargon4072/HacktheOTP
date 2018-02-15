@@ -1,8 +1,5 @@
 package com.example.krishna_warrior.jargonk;
 
-/**
- * Created by Ravi on 08/07/15.
- */
 public class Config {
     // server URL configuration
     public static final String URL_REQUEST_SMS = "http://192.168.43.74/android_sms/msg91/request_sms.php";

@@ -10,9 +10,6 @@ import android.util.Log;
 import android.widget.Toast;
 
 
-/**
- * Created by Ravi on 09/07/15.
- */
 public class SmsReceiver extends BroadcastReceiver {
     private static final String TAG = SmsReceiver.class.getSimpleName();
 

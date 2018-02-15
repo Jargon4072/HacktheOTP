@@ -4,10 +4,6 @@ import android.app.Application;
 import android.text.TextUtils;
 
 
-/**
- * Created by Ravi on 13/05/15.
- */
-
 public class MyApplication extends Application {
 
     public static final String TAG = MyApplication.class
